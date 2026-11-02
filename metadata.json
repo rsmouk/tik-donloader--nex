@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Direct Video Extractor & API",
+  "description": "أداة سريعة وخفيفة للحصول على الروابط المباشرة لفيديوهات تيك توك بدون علامة مائية مع واجهة برمجية API متكاملة للمطورين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
